@@ -1,3 +1,3 @@
 # DESCRIPTION
 
-A simple multi-page web application.
+A single page web application.
